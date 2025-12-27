@@ -1,0 +1,5 @@
+{
+  "name": "Cyber-Shield",
+  "description": "AI-Powered Dependency Vulnerability Monitor that cross-references security alerts with dependency files using Gemini.",
+  "requestFramePermissions": []
+}
